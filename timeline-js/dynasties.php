@@ -34,8 +34,7 @@
        font: 'Georgia-Helvetica'
       }
     </script>
-    <script type="text/javascript" src="http://cdn.knightlab.com/libs/timeline/latest/js/storyjs-embed.js"></script>
+    <script type="text/javascript" src="build/js/storyjs-embed.js"></script>
     <!-- END Timeline Embed-->
-
 </body>
 </html>
