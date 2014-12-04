@@ -1,11 +1,19 @@
 Consolidate the best of these and render in a dynamic timeline:
-http://afe.easia.columbia.edu/timelines/china_timeline.htm
-http://afe.easia.columbia.edu/tps/1750.htm
-http://www.imperialchina.org/Ming_Dynasty.html
-http://www.asia.si.edu/exhibitions/online/chinaTimeline/launch.htm
-http://www.tiki-toki.com/timeline/entry/46645/Ancient-China-The-Shang-to-the-Qin-Unification
+	http://afe.easia.columbia.edu/timelines/china_timeline.htm
+	http://afe.easia.columbia.edu/tps/1750.htm
+	http://www.imperialchina.org/Ming_Dynasty.html
+	http://www.asia.si.edu/exhibitions/online/chinaTimeline/launch.htm
+	http://www.tiki-toki.com/timeline/entry/46645/Ancient-China-The-Shang-to-the-Qin-Unification
 
 Spreadsheet URL: https://docs.google.com/spreadsheet/pub?key=0AghPi8JsmBSydFRwT19fbGx3UXpIWmNiYzRNREY0S1E&output=html
+
+
+Neolithic Period - Review and possibly consolidate these for a more comprehensive overview (if nothing else, something to fill the 8,000 year gap between the title slide and the Xia!):
+	http://etcweb.princeton.edu/asianart/timeperiod_china.jsp?ctry=China&pd=Neolithic
+	http://afe.easia.columbia.edu/tps/4000bce.htm#neo
+	http://education.asianart.org/sites/asianart.org/files/resource-downloads/Ancient%20China%20Color%20PDF.pdf
+	http://en.wikipedia.org/wiki/List_of_Neolithic_cultures_of_China
+
 
 
 ca. 2100-1600 BCE	Xia (Hsia) Dynasty
