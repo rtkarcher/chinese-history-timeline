@@ -31,6 +31,7 @@
        width: "100%",
        height: "100%",
        source: 'https://docs.google.com/spreadsheet/pub?key=0AghPi8JsmBSydFRwT19fbGx3UXpIWmNiYzRNREY0S1E&output=html',
+//     source: 'history.json',		Uncomment if using JSON instead of Google spreadsheet
        font: 'Georgia-Helvetica'
       }
     </script>
