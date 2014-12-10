@@ -12,6 +12,6 @@ Basic Requirements
 This tool depends upon the following prerequisites:
 
 | Name | Author | Repository URL | Version | 
-|----------|---------|----------|
+|----------|---------|----------|----------|
 | TimelineJS | [NUKnightLab](http://knightlab.northwestern.edu/) | [https://github.com/NUKnightLab/TimelineJS](https://github.com/NUKnightLab/TimelineJS) | 2.33.0+ |
 
