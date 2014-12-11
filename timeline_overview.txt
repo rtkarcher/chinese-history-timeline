@@ -70,3 +70,19 @@ http://www.asia.si.edu/collections/zoom/F1940.10a-d.jpg - Han?
 http://www.metmuseum.org/toah/ht/?period=03#slideshow2 - Shang
 http://arts.cultural-china.com/en/65A2096A5405.html - Spring/Autumn
 http://www.asia.si.edu/collections/searchresults.cfm
+
+
+
+Google Maps API: 
+https://developers.google.com/chart/interactive/docs/gallery/geochart
+
+https://developers.google.com/maps/documentation/javascript/examples/polygon-simple?csw=1
+
+https://developers.google.com/maps/documentation/javascript/v2/overlays?csw=1#Polygons_Overview
+
+Awesome Plotting Tool:
+http://www.birdtheme.org/useful/v3tool.html
+
+How to embed coordinates in URLs:
+https://www.google.com.au/maps/preview/@<latitude>,<longitude>,<zoom level>z
+https://www.google.com.au/maps/preview/@-15.623037,18.388672,8z
