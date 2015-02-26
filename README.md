@@ -10,6 +10,8 @@ While looking around for a comprehensive visual guide to Chinese history, I foun
 
 I'm also working on some cartographic regional overlays for each of the pre-Republican periods using the Google Maps API: [http://jsfiddle.net/quizas/so8hf3r4/](http://jsfiddle.net/quizas/so8hf3r4/)
 
+Map coordinate plotting instructions [can be found here](http://rainerkarcher.com/mapping.php).
+
 
 Basic Requirements
 ---
