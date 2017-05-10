@@ -1,0 +1,251 @@
+[
+    {
+        "startDate": "-10000",
+        "headline": "A Comprehensive Timeline of Ancient Chinese History<br /><br />",
+        "text": "(A <a href=\"https://github.com/rtkarcher/chinese-history-timeline\">work in progress</a>)",
+        "media": "img/china-header.jpg",
+        "mediaCaption": "<a href=\"http://www.nationalgeographicexpeditions.com/assets/images/1713/itinerary-header.jpg\" title=\"\" target=\"_blank\">© 1996-2014 National Geographic Society.</a>",
+        "type": "title"
+    },
+    {
+        "startDate": "-10000",
+        "endDate": "-2000",
+        "headline": "Neolithic Cultures",
+        "text": "Primarily characterized by the production of stone tools, pottery, textiles, houses, burials, and jade objects. Current archaeological research suggests that roughly sixty Neolithic cultures existed (most of which have been named for the archaeological site at which artifacts were discovered) prior to the earliest historical records. Attempts at mapping Neolithic China have typically grouped the various archeological cultures by geographic location in relation to the courses of the Yellow River in the north and the Yangzi River in the south. Additionally, some scholars group Neolithic culture sites into two broad cultural categories: the Yangshao cultures in central and western China, and the Longshan cultures in eastern and southeastern China.<br /><br />\n\n• Read more at the <a href=\"http://etcweb.princeton.edu/asianart/timeperiod_china.jsp?ctry=China&pd=Neolithic\" target=\"_blank\">Princeton University Art Museum</a>",
+        "media": "http://rainerkarcher.com/js/timeline-js/img/map_china_neolithic.gif",
+        "mediaCaption": "Maps courtesy of the <a href=\"http://etcweb.princeton.edu/asianart/maps.jsp?ctry=China&pd=Neolithic&anim=0\" title=\"\" target=\"_blank\">Princeton University Art Museum's Asian Art Collection</a> online resources.",
+        "mediaThumbnail": "img/china-header.jpg"
+    },
+    {
+        "startDate": "-4800",
+        "endDate": "-3000",
+        "headline": "仰韶文化<br />\nYangshao Cultures",
+        "text": "The Neolithic sites and associated cultures which occupied the northern central plains are collectively known as the Yangshao cultures. Well known for its painted pottery, this is the group most often represented in western museum collections of Asian art. It is suggested that these cultures flourished primarily in the provinces of Henan, Shaanxi and Shanxi. <br /><br />\n\n• Read more at the <a href=\"http://etcweb.princeton.edu/asianart/timeperiod_china.jsp?ctry=China&pd=Neolithic\" target=\"_blank\">Princeton University Art Museum</a> and the <a href=\"http://education.asianart.org/sites/asianart.org/files/resource-downloads/Ancient%20China%20Color%20PDF.pdf\" target=\"_blank\">Asian Art Museum</a>",
+        "media": "http://rainerkarcher.com/js/timeline-js/img/pottery_yangshao.gif",
+        "mediaCaption": "Painted pottery, Yangshao Culture (a. 5000-3000 BCE). <br />Image courtesy of the <a href=\"http://www.history.ubc.ca/faculty/lshin/teaching/320/week2/yangshao.htm\" title=\"\" target=\"_blank\">University of British Columbia's Department of History</a>"
+    },
+    {
+        "startDate": "-3800",
+        "endDate": "-2000",
+        "headline": "马家窑文化<br />\nMajiayao Cultures",
+        "text": "The Majiayao cultures occupied much of the upper Yellow River region, from Shaanxi province westward along the Wei River to Lanzhou, Gansu province, spreading along the upper reaches of the Yellow River and into Qinghai province. Characterized chiefly by polished red earthenware pottery, often bearing complicated finishes painted in black, the Majiayao cultures subsisted via agricultural and hunting-gathering means; while their agricultural activity seem highly remniscient of Yangshao tradition, the Majiayao differed in their strong hunter-gatherer tradition and possible practice of pastoralism.<br /><br />\n\nPhases of Majiayao culture included Majiayao (ca. 3100–ca. 2700 B.C.), Banshan (ca. 2600–ca. 2300 B.C.), and Machang (ca. 2200–ca. 2000 B.C.).<br /><br />\n\n• Read more at the <a href=\"http://etcweb.princeton.edu/asianart/timeperiod_china.jsp?ctry=China&pd=Neolithic\" target=\"_blank\">Princeton University Art Museum</a>",
+        "media": "http://rainerkarcher.com/js/timeline-js/img/pottery_majiayao1.jpg"
+    },
+    {
+        "startDate": "-2600",
+        "endDate": "-2000",
+        "headline": "龙山文化 <br />\nLongshan Cultures",
+        "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. Nullam sit amet enim."
+    },
+    {
+        "startDate": "-4300",
+        "endDate": "-2400",
+        "headline": "大汶口文化<br />\nDawenkou Cultures",
+        "text": "Dawenkou culture takes its name from the archaeological site near the town of Dawenkouzhen in Shandong province. Dawenkou sites have been found along the eastern coast of China in the lower Yellow River valley region in Shandong and northern Jiangsu provinces, and in its later stage extends west into Henan province. Tombs of various sizes have been excavated at Dawenkou sites, and range from sparsely equipped small burials to large tombs with up to about 180 objects. Ceramics are among the myriad artifacts discovered at these sites - generally having a smooth finish, and often burnished, ceramics have been found bearing painted, carved, openwork, stamped, or applique designs; additionally, Dawenkou culture produced earthenware ceramics in myriad colors and shapes, and appear to have favored specific types of clay for different purposes (for instance, carefully washed fine clays were reserved for delicate ritual wares, while clays made of sand with a coarser grain were often used for utilitarian wares).<br /><br />\n\nRadiocarbon analysis indicates a long period of cultural activity from around 4300–2400 B.C. that is commonly divided into the three following phases: Early Dawenkou (ca. 4300–ca. 3500 B.C.), Middle Dawenkou (ca. 3500–ca. 2800 B.C.), Late Dawenkou (ca. 2800–ca. 2400 B.C.).<br /><br />\n\n• Read more at the <a href=\"http://etcweb.princeton.edu/asianart/timeperiod_china.jsp?ctry=China&pd=Neolithic\" target=\"_blank\">Princeton University Art Museum</a>"
+    },
+    {
+        "startDate": "-2200",
+        "endDate": "-1800",
+        "headline": "齊家文化 <br />\nQijia Cultures",
+        "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. Nullam sit amet enim."
+    },
+    {
+        "startDate": "-2100",
+        "endDate": "-1600",
+        "headline": "夏朝<br />\nXia (Hsia) Dynasty",
+        "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. Nullam sit amet enim.",
+        "media": "http://images.nationalgeographic.com/wpf/media-live/photos/000/286/cache/great-wall_28627_600x450.jpg",
+        "mediaCaption": "View of the Great Wall, a feat of construction and strategy. Photo by <a href=\"http://travel.nationalgeographic.com/travel/countries/your-china-photos/#/great-wall_28627_600x450.jpg\" title=\"\" target=\"_blank\">Cathrine Koester. </a><br /> © 1996-2014 National Geographic Society."
+    },
+    {
+        "startDate": "-1600",
+        "endDate": "-1050",
+        "headline": "商朝<br />\nShang Dynasty",
+        "text": "Radiocarbon analysis indicates a long period of cultural activity from around 4300–2400 B.C. that is commonly divided into the three following phases: Early Dawenkou (ca. 4300–ca. 3500 B.C.), Middle Dawenkou (ca. 3500–ca. 2800 B.C.), Late Dawenkou (ca. 2800–ca. 2400 B.C.).<br /><br />\n\n• Read more at the <a href=\"http://etcweb.princeton.edu/asianart/timeperiod_china.jsp?ctry=China&pd=Neolithic\" target=\"_blank\">Princeton University Art Museum</a><br /><br />",
+        "media": "http://www.metmuseum.org/toah/images/hb/hb_43.25.4.jpg",
+        "mediaCredit": "Spouted ritual wine vessel, bronze. Shang Dynasty, early Anyang period (ca. 1300–1050 B.C.), \n<br />13th century B.C.E. Possibly Anyang, Henan Province, China. <a href=\"http://www.metmuseum.org/toah/works-of-art/43.25.4\" title=\"Spouted ritual wine vessel\" target=\"_blank\">© 2000–2014 The Metropolitan Museum of Art</a>"
+    },
+    {
+        "startDate": "-1600",
+        "endDate": "-1050",
+        "headline": "Map of the Shang Empire",
+        "media": "http://rainerkarcher.com/js/timeline-js/img/map_china_shang_zhou.gif",
+        "mediaCredit": "Spouted ritual wine vessel, bronze. Shang Dynasty, early Anyang period (ca. 1300–1050 B.C.), \n<br />13th century B.C.E. Possibly Anyang, Henan Province, China. <a href=\"http://www.metmuseum.org/toah/works-of-art/43.25.4\" title=\"Spouted ritual wine vessel\" target=\"_blank\">© 2000–2014 The Metropolitan Museum of Art</a>"
+    },
+    {
+        "startDate": "-1046",
+        "endDate": "-256",
+        "headline": "周朝<br />\nZhou (Chou) Dynasty",
+        "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. Nullam sit amet enim.",
+        "media": "img/map_IanKiu_Zhou_dynasty.png",
+        "mediaCaption": "Maps courtesy of <a href=\"http://commons.wikimedia.org/wiki/User:Ian_Kiu/Gallery\" title=\"\" target=\"_blank\">Wikimedia Commons</a>."
+    },
+    {
+        "startDate": "-770",
+        "endDate": "-475",
+        "headline": "Spring and Autumn Period",
+        "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. Nullam sit amet enim.",
+        "media": "http://www.cultural-china.com/chinaWH/images/exbig_images/9e5329cffe4a08093c2ea30af19bba95.jpg",
+        "mediaCaption": "<a href=\"http://arts.cultural-china.com/en/65A2096A5405.html\" title=\"Jade ornament with beast face pattern; Length: 7.1cm, Width: 7.5cm\">Ornate jade plaque bearing cloud patterns and a beast's face; late Spring and Autumn period. Length: 7.1cm, width: 7.5cm</a>"
+    },
+    {
+        "startDate": "-475",
+        "endDate": "-221",
+        "headline": "Warring States Period",
+        "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. Nullam sit amet enim.\n",
+        "media": "img/map_IanKiu_warring_states_350_BCE_1.png",
+        "mediaCaption": "Maps courtesy of <a href=\"http://commons.wikimedia.org/wiki/User:Ian_Kiu/Gallery\" title=\"\" target=\"_blank\">Wikimedia Commons</a>."
+    },
+    {
+        "startDate": "-221",
+        "endDate": "-206",
+        "headline": "秦朝<br />\nQin (Ch'in) Dynasty",
+        "text": "Capital: Chang'an, present-day Xi'an <br /><br />\n\nLorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. Nullam sit amet enim.",
+        "media": "img/map_IanKiu_qin_dynasty.png",
+        "mediaCaption": "Maps courtesy of <a href=\"http://commons.wikimedia.org/wiki/User:Ian_Kiu/Gallery\" title=\"\" target=\"_blank\">Wikimedia Commons</a>."
+    },
+    {
+        "startDate": "-206",
+        "endDate": "-220",
+        "headline": "汉朝<br />\nHan Dynasty",
+        "text": "Western/Former Han (206 BCE - 9 CE) - Capital: Chang'an <br />\nEastern/Latter Han (25 CE - 220 CE) - Capital: Luoyang <br /><br />\n\nLorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. Nullam sit amet enim.",
+        "media": "img/map_IanKiu_han_dynasty.png",
+        "mediaCaption": "Maps courtesy of <a href=\"http://commons.wikimedia.org/wiki/User:Ian_Kiu/Gallery\" title=\"\" target=\"_blank\">Wikimedia Commons</a>."
+    },
+    {
+        "startDate": "220",
+        "endDate": "589",
+        "headline": "六朝 <br />\nSix Dynasties Period",
+        "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. Nullam sit amet enim.\n"
+    },
+    {
+        "startDate": "220",
+        "endDate": "265",
+        "headline": "三國時代: 魏, 蜀, 吳 <br />\nThree Kingdoms Period: <br />\nCao Wei, Shu Han, Dong Wu",
+        "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. Nullam sit amet enim.\n",
+        "media": "img/map_IanKiu_three_kingdoms.png",
+        "mediaCaption": "Maps courtesy of <a href=\"http://commons.wikimedia.org/wiki/User:Ian_Kiu/Gallery\" title=\"\" target=\"_blank\">Wikimedia Commons</a>."
+    },
+    {
+        "startDate": "265",
+        "endDate": "420",
+        "headline": "Jin Dynasty",
+        "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. Nullam sit amet enim.\n",
+        "media": "img/map_IanKiu_Eastern_Jin_Dynasty_376_CE.png",
+        "mediaCaption": "Maps courtesy of <a href=\"http://commons.wikimedia.org/wiki/User:Ian_Kiu/Gallery\" title=\"\" target=\"_blank\">Wikimedia Commons</a>."
+    },
+    {
+        "startDate": "386",
+        "endDate": "589",
+        "headline": "Period of the Northern and Southern Dynasties",
+        "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. Nullam sit amet enim.\n",
+        "media": "img/map_IanKiu_Northern_and_Southern_Dynasties_560_CE.png",
+        "mediaCaption": "Maps courtesy of <a href=\"http://commons.wikimedia.org/wiki/User:Ian_Kiu/Gallery\" title=\"\" target=\"_blank\">Wikimedia Commons</a>."
+    },
+    {
+        "startDate": "581",
+        "endDate": "618",
+        "headline": "Sui Dynasty",
+        "text": "Capital: Chang'an<br /><br />\n\nLorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. Nullam sit amet enim.",
+        "media": "img/map_IanKiu_sui_dynasty_581_CE.png",
+        "mediaCaption": "Maps courtesy of <a href=\"http://commons.wikimedia.org/wiki/User:Ian_Kiu/Gallery\" title=\"\" target=\"_blank\">Wikimedia Commons</a>."
+    },
+    {
+        "startDate": "618",
+        "endDate": "906",
+        "headline": "唐朝<br />\nTang (T'ang) Dynasty",
+        "text": "Capital: Chang'an and Luoyang<br /><br />\n\nLorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. Nullam sit amet enim.",
+        "media": "img/map_IanKiu_Tang_Dynasty_circa_700_CE.png",
+        "mediaCaption": "Maps courtesy of <a href=\"http://commons.wikimedia.org/wiki/User:Ian_Kiu/Gallery\" title=\"\" target=\"_blank\">Wikimedia Commons</a>."
+    },
+    {
+        "startDate": "907",
+        "endDate": "960",
+        "headline": "Five Dynasties Period",
+        "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. Nullam sit amet enim.",
+        "media": "img/map_IanKiu_Five_Dynasties_Ten_Kingdoms_923_CE.png",
+        "mediaCaption": "Maps courtesy of <a href=\"http://commons.wikimedia.org/wiki/User:Ian_Kiu/Gallery\" title=\"\" target=\"_blank\">Wikimedia Commons</a>."
+    },
+    {
+        "startDate": "907",
+        "endDate": "1125",
+        "headline": "Liao Dynasty",
+        "text": "Reign of the Khitans; gained a strip of land that included modern Beijing<br /><br />\n\nLorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. Nullam sit amet enim.",
+        "media": "img/map_IanKiu_Five_Dynasties_Ten_Kingdoms_923_CE.png",
+        "mediaCaption": "Maps courtesy of <a href=\"http://commons.wikimedia.org/wiki/User:Ian_Kiu/Gallery\" title=\"\" target=\"_blank\">Wikimedia Commons</a>."
+    },
+    {
+        "startDate": "960",
+        "endDate": "1279",
+        "headline": "宋朝<br />\nSong (Sung) Dynasty",
+        "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. Nullam sit amet enim.\n",
+        "media": "img/map_IanKiu_Song_Dynasty_1141.png",
+        "mediaCaption": "Maps courtesy of <a href=\"http://commons.wikimedia.org/wiki/User:Ian_Kiu/Gallery\" title=\"\" target=\"_blank\">Wikimedia Commons</a>."
+    },
+    {
+        "startDate": "960",
+        "endDate": "1127",
+        "headline": "Northern Song",
+        "text": "Capital: Bianjing (present-day Kaifeng)<br /><br />\n\nLorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. Nullam sit amet enim.",
+        "media": "img/map_IanKiu_Song_Dynasty_1141.png",
+        "mediaCaption": "Maps courtesy of <a href=\"http://commons.wikimedia.org/wiki/User:Ian_Kiu/Gallery\" title=\"\" target=\"_blank\">Wikimedia Commons</a>."
+    },
+    {
+        "startDate": "1115",
+        "endDate": "1234",
+        "headline": "Jin Dynasty",
+        "text": "Reign of the Jurchens; after defeating the Khitans in the early 12th century, went on to push Song out of North China <br /><br />\n\nLorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. Nullam sit amet enim."
+    },
+    {
+        "startDate": "1127",
+        "endDate": "1279",
+        "headline": "Southern Song",
+        "text": "Capital: Lin'an (present-day Hangzhou)<br /><br />\n\nLorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. Nullam sit amet enim.",
+        "media": "img/map_IanKiu_Song_Dynasty_1141.png",
+        "mediaCaption": "Maps courtesy of <a href=\"http://commons.wikimedia.org/wiki/User:Ian_Kiu/Gallery\" title=\"\" target=\"_blank\">Wikimedia Commons</a>."
+    },
+    {
+        "startDate": "1279",
+        "endDate": "1368",
+        "headline": "元朝<br />\nYuan Dynasty",
+        "text": "The reign of the Mongol empire; after defeating the Jurchen in the early 13th century, went on and fully defeated the Song to control all of China. Capital: Dadu (present-day Beijing)<br /><br />\n\nLorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. Nullam sit amet enim.",
+        "media": "img/map_IanKiu_Yuan_Dynasty_1294.png",
+        "mediaCaption": "Maps courtesy of <a href=\"http://commons.wikimedia.org/wiki/User:Ian_Kiu/Gallery\" title=\"\" target=\"_blank\">Wikimedia Commons</a>."
+    },
+    {
+        "startDate": "1368",
+        "endDate": "1644",
+        "headline": "明朝<br />\nMing Dynasty",
+        "text": "Re-establishment of rule by Han ruling house; Capitals: Nanjing and Beijing<br /><br />\n\nLorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. Nullam sit amet enim.",
+        "media": "img/map_IanKiu_Ming_Dynasty_1415.png",
+        "mediaCaption": "Maps courtesy of <a href=\"http://commons.wikimedia.org/wiki/User:Ian_Kiu/Gallery\" title=\"\" target=\"_blank\">Wikimedia Commons</a>."
+    },
+    {
+        "startDate": "1644",
+        "endDate": "1912",
+        "headline": "清朝<br />\nQing (Ch'ing) Dynasty",
+        "text": "Reign of the Manchus; Capital: Beijing<br /><br />\n\nLorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. Nullam sit amet enim.",
+        "media": "img/map_IanKiu_Qing_Dynasty_1892.png",
+        "mediaCaption": "Maps courtesy of <a href=\"http://commons.wikimedia.org/wiki/User:Ian_Kiu/Gallery\" title=\"\" target=\"_blank\">Wikimedia Commons</a>."
+    },
+    {
+        "startDate": "1912",
+        "endDate": "1949",
+        "headline": "中華民國 <br />\nRepublic of China",
+        "text": "Capitals: Beijing, Wuhan, and Nanjing<br /><br />\n\nLorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. Nullam sit amet enim.",
+        "media": "img/map_IanKiu_present.png",
+        "mediaCaption": "Maps courtesy of <a href=\"http://commons.wikimedia.org/wiki/User:Ian_Kiu/Gallery\" title=\"\" target=\"_blank\">Wikimedia Commons</a>."
+    },
+    {
+        "startDate": "1949",
+        "endDate": 2017,
+        "headline": "中华人民共和国 <br />\nPeople's Republic of China",
+        "text": "Capital: Beijing<br /><br />\n\nLorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. Nullam sit amet enim.",
+        "media": "img/map_IanKiu_present.png",
+        "mediaCaption": "Maps courtesy of <a href=\"http://commons.wikimedia.org/wiki/User:Ian_Kiu/Gallery\" title=\"\" target=\"_blank\">Wikimedia Commons</a>."
+    },
+    {
+        "startDate": "2017",
+        "headline": "Acknowledgements"
+    }
+]
